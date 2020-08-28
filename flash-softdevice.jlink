@@ -1,0 +1,4 @@
+loadbin /home/andre/nRF5_SDK_11.0.0_89a8197/components/softdevice/s130/hex/s130_nrf51_2.0.0_softdevice.hex 0x001000
+r
+g
+exit

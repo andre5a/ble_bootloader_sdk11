@@ -1,0 +1,4 @@
+loadbin _build/nrf51422_xxac.hex 0x03C000
+r
+g
+exit
